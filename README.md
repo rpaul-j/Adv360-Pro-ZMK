@@ -1,4 +1,6 @@
 # Kinesis Advantage 360 Pro ZMK Config
+## local modifications
+  - 03/25 forked from 3.0
 
 ## Modifying the keymap
 
